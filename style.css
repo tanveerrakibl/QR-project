@@ -1,0 +1,48 @@
+body{
+    background: hsl(212, 45%, 89%);
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+.box{
+    display: block;
+    width: 322px;
+    height: 498px;
+    border-radius: 5%;
+    margin: auto auto;
+    background: hsl(0, 0%, 100%);
+}
+img{
+    width: 290px;
+    height: 290px;
+    border-radius: 10%;
+    padding: 15px;
+}
+.box .text{
+    padding-left: 20px;
+    padding-right: 20px;
+    
+
+}
+.text h2{
+    color: hsl(218, 44%, 22%);
+    font-size: 22px;
+    font-family: Outfit, sans-serif;
+    text-align: center;
+}
+.text p{
+    color: hsl(220, 15%, 55%);
+    font-family: Outfit, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.attribution{
+    padding-top: 10px;
+    text-align: center;
+    font-size: small;
+}
